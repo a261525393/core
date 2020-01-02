@@ -1,2 +1,3 @@
 # core
-c core library by murray cai
+
+a c language singel process core framework
